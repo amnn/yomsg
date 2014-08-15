@@ -1,7 +1,7 @@
 require 'sinatra'
 
 get '/' do
-  redirect("/your%20message%20here")
+  redirect("/yo+msg+here")
 end
 
 get '/:msg' do

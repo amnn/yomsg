@@ -7,7 +7,7 @@ voice of our caveman ancestors?
 
 Send messages using Yo links!
 
-Try it out [here](http://yomsg.herokuapp.com/your%20message%20here).
+Try it out [here](http://yomsg.herokuapp.com).
 
 *Change the message by changing the message in the URL.*
 
