@@ -1,5 +1,9 @@
 require 'sinatra'
 
+get '/' do
+  redirect("/your%20message%20here")
+end
+
 get '/:msg' do
   haml :index
 end
